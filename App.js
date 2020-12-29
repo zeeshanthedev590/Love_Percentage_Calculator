@@ -21,7 +21,7 @@ export default class App extends Component {
           "X-RapidAPI-Host": "love-calculator.p.rapidapi.com",
           // Api Key
           "X-RapidAPI-Key":
-            "d4c6f0bceamshfd3c7421a325062p10b1c2jsnedbdc20f5d80",
+            "API_Key_From_rapid_Api_.com",
         },
       }
     )
